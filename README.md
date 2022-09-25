@@ -82,4 +82,4 @@ The purpose of this project is to show case pythons abilities to automate correc
 
 
 # Summary:
-The Example used in this project holds very little data and could have easily been fixed individually by hand. But, this example is ment to show case pythons versatility. The code for this project can still be used for a larger data set with very little refactoring.  
+The Example used in this project holds very little data, and could have easily been fixed individually by hand. This example is ment to show case pythons versatility. The code for this project can still be used for a larger data set with very little refactoring.  
