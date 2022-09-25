@@ -5,7 +5,7 @@ Automating Excel workbook using Python to correct values and create a bar chart.
 
 
 ### Purpose:
-The purpose of this project is to show case pythons abilities to automate corrections to workbooks on excel. And, automation of visualization via python onto excel in for of a bar chart.
+The purpose of this project is to show case pythons abilities to automate corrections to workbooks on excel. And, automation of visualization via python onto excel as a bar chart.
 
 
 ## Resources
