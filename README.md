@@ -77,7 +77,9 @@ Showcase pythons abilities to automate maintanace corrections to excel workbooks
 
     # Saving New Workbook
     wb.save(filename)
-<br><br>
+<br>
+ The Refactorization of the code allows new wb inputs for automation. 
+<br>
 
 
 
