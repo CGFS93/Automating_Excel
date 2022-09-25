@@ -1,11 +1,11 @@
 # Automating_Excel
 
 ## Overview of Automating Excel:
-Automating Excel workbook using Python to correct values and create a bar chart. Using openpyxl, a for-loop, and structuring a fuction, python enabled the ability to automate tedious work on excel. 
+Automating Excel workbook with Python to correct values and create  bar charts. Using openpyxl, Python for-loop, and structuring a fuction, python enables automation of tedious excel work. 
 
 
 ### Purpose:
-The purpose of this project is to show case pythons abilities to automate corrections to workbooks on excel. And, automation of visualization via python onto excel as a bar chart.
+Showcase pythons abilities to automate maintanace corrections to excel workbooks. Allowing visualization via python onto excel as a bar chart.
 
 
 ## Resources
