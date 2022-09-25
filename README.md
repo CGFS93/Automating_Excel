@@ -22,7 +22,8 @@ The purpose of this project is to show case pythons abilities to automate correc
 </p>
 
 -The code below is the for-loop responsable for the prices correction on the wb transactions.xlsx.<br>
--for row in range(2, sheet.max_row + 1):
+-
+for row in range(2, sheet.max_row + 1):
         cell = sheet.cell(row, 3)
         corrected_price = cell.value * 0.9
         correctted_price_cell = sheet.cell(row, 4)
