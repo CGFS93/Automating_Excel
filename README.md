@@ -82,4 +82,7 @@ The purpose of this project is to show case pythons abilities to automate correc
 
 
 # Summary:
-The Example used in this project hold very little data, and could have been easily fixed individually by hand. This example is ment to show case pythons versatility. The code for this project can still be used for a larger data set with very little refactoring.  
+Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together.
+openpyxl is a Python library to read/write Excel 2010 xlsx/xlsm/xltx/xltm files. 
+  for loops are used when you have a block of code which you want to repeat a fixed number of times. The for-loop is always used in combination with an iterable object, like a list or a range. The Python for statement iterates over the members of a sequence in order, executing the block each time. Contrast the for statement with the ''while'' loop, used when a condition needs to be checked each iteration or to repeat a block of code forever. In bar charts values are plotted as either horizontal bars or vertical columns. 
+  Implementing these tools in conjunction will grant the ability to automate repetitive tasks. 
